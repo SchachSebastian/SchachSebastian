@@ -27,7 +27,17 @@ I have worked on a lot of projects in the past, but I have only uploaded a few o
 
 One of my projects is:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=schachsebastian&repo=manhunt)](https://github.com/schachsebastian/manhunt)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=schachsebastian&repo=manhunt&theme=github_dark"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=schachsebastian&repo=manhunt"
+  media="(prefers-color-scheme: light)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=schachsebastian&repo=manhunt&theme=github_dark" />
+</picture>
 
 ### Operating System
 
@@ -67,7 +77,7 @@ One of my projects is:
 
 **Database**
 
-<img src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 
@@ -80,7 +90,7 @@ One of my projects is:
 <div style="display: flex;gap: 1%">
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=schachsebastian&show_icons=true&theme=github_dark"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <source
