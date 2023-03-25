@@ -16,9 +16,10 @@ I personally prefer `backend development` but I also like `frontend development`
 
 Currently, I'm learning
 
+<div>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-
+</div>
 and I'm working on some of my own projects.
 
 ### Projects
