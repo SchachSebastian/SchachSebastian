@@ -3,16 +3,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/schachsebastian?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/schachsebastian?style=social)
 
-[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/19030462/sebastian)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sebastian-schachner/)
+[<img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">](mailto:schachner.contact@gmail.com)
+[<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/19030462/sebastian)
 
 ### About me
 
-Hello, my name is `Sebastian Schachner` and I'm 18 years old!
+Hello, my name is `Sebastian Schachner`, I'm 18 years old and a student at 🏫 HTBLA Kaindorf!
 
-I'm a student at 🏫 HTBLA Kaindorf and really interested in `software development`.
+I'm really interested in `software development`, personally I prefer `backend development` but I also like `frontend development`.
 
-I personally prefer `backend development` but I also like `frontend development`.
+Besides programming I also like to play 🎮 video games. (who doesn't?)
 
 Currently, I'm learning
 
